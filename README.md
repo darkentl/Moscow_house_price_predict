@@ -12,6 +12,7 @@ https://www.kaggle.com/datasets/mrdaniilak/russia-real-estate-2021
 3. Запустить `data/eda.ipynb`
 4. Запустить `models/models.ipynb`
 5. Обученная модель сохранится в `models/model.pkl`
+6. Также сохраняется обученный scaler в `models/scaler.pkl`
 
 ## Structure
 
@@ -24,4 +25,5 @@ data/
 models/
 ├── models.ipynb
 ├── model.pkl
+├── scaler.pkl
 ```
