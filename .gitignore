@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
+
+# Model files
+*.pkl
+*.joblib
+
+# Data
+data/*.csv
+data/*.parquet
+data/*.zip
+
+# Cache
+.cache/
+.pytest_cache/
