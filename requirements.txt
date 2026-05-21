@@ -1,1 +1,0 @@
-https://www.kaggle.com/datasets/mrdaniilak/russia-real-estate-2021 - датасет обучения (данные за 2021 год по всей России) 
