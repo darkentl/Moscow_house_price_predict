@@ -74,7 +74,7 @@ Moscow_house_price_predict/
 ├── eda.ipynb                     # анализ данных
 ├── models.ipynb                  # обучение и сравнение моделей
 └── README.md
-
+```
 
 ## Сайт
 
