@@ -30,19 +30,12 @@ https://www.kaggle.com/datasets/egorkainov/moscow-housing-price-dataset
 
 В проекте сравниваются модели:
 
-- Dummy Regressor
 - Linear Regression
-- Ridge Regression
-- Lasso Regression
 - ElasticNet
 - Decision Tree Regressor
 - Random Forest Regressor
 - Extra Trees Regressor
 - Gradient Boosting Regressor
-- Hist Gradient Boosting Regressor
-- AdaBoost Regressor
-- KNN Regressor
-- SVR
 
 Лучшая модель выбирается по минимальному значению метрики **MAE**.
 
